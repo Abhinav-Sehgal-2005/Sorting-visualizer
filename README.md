@@ -21,15 +21,13 @@ An interactive visualization tool to understand how different sorting algorithms
 
 ## ▶️ How to Run
 
-```bash
-pip install pygame
+pip install pygame  
 python Visualizer.py
-```
 
 ---
 
 ## 📸 Screenshot
-(Add your screenshot here)
+![App Screenshot](screenshot.png)
 
 ---
 
