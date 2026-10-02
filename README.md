@@ -2,6 +2,14 @@
 
 An interactive visualization tool to understand how different sorting algorithms work.
 
+## 📌 Project Overview
+
+This project helps beginners understand how sorting algorithms work by
+visualizing each step of the sorting process in real time.
+
+Instead of only seeing the final sorted array, users can observe how
+different algorithms compare and rearrange elements.
+
 ---
 
 ## 🚀 Features
